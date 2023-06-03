@@ -2,7 +2,7 @@
 Develop a program to create a simple calculator using Android Studio.
 
 ## AIM:
-To develop a program to create a simple calculator using Android Studio.
+To develop a program to create a simple calculator using Android Studio. 
 
 ## EQUIPMENTS REQUIRED:
 
