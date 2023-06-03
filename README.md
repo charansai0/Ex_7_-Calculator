@@ -436,7 +436,7 @@ public class MainActivity extends AppCompatActivity {
 ## Output:
 ![output](https://github.com/charansai0/Ex_7_-Calculator/blob/main/j71.png)
 
-![output]()
+![output](https://github.com/charansai0/Ex_7_-Calculator/blob/main/j72.png)
 
 
 
